@@ -19,6 +19,9 @@ public class Arithmeticexcep {
 			System.out.println(e);
 		}
 		System.out.println(a/b);
+		System.out.println(a);
 	}
+	
 
 }
+
